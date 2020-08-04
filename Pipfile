@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+selenium = "==2.53.0"
+chromedriver-binary = "==2.37.0"
+
+[requires]
+python_version = "3.7"
